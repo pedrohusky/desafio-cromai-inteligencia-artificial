@@ -1,5 +1,3 @@
-# desafio-cromai-inteligencia-artificial
-Desafio técnico para estágio em Inteligência Artificial
 
 # Processamento de Imagens em Lote com Interface Gráfica
 
